@@ -1,0 +1,4 @@
+Q1- What happens when you initialize a repository? Why do you need to do it?
+A1 - when initialized git creates a metadata folder, and doesnot commit anything otherwise there is no message and all directory are not to be commited.
+
+Q2 - 
